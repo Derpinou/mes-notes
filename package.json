@@ -1,0 +1,8 @@
+{
+  "name": "mes-notes",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "node-ecole-directe": "^1.2.1"
+  }
+}
